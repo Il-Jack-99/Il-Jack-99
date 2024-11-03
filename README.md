@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Jack
+# 👋 Hello! I'm Giacomo
 - 💻 Passionate Full Stack Developer
 - 🛠️ Currently building a research-focused application with **Spring Boot** and **React**
-- 📫 Reach me at [your.email@example.com]
+- 📫 Reach me at [ggattogiacomo@gmail.com]
